@@ -1,0 +1,6 @@
+input::placeholder {
+  color: blue !important;
+}
+.header {
+ top: 32px;
+}
